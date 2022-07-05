@@ -10,4 +10,4 @@ Request loan
 
 close account if you want to by current account user name and password
 
-Transferred money is reflected in receivers account if transferred js/jd
+Transferred money is reflected in receivers account if transferred to js/jd
